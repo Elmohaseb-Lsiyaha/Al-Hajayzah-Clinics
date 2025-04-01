@@ -1,0 +1,20 @@
+/* CSS العام */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    background-color: #f5f5f5;
+}
+
+.hero {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(to right, #4CAF50, #45a049);
+    color: white;
+}
+
+.btn {
+    padding: 12px 30px;
+    border-radius: 25px;
+    text-decoration: none;
+    margin: 10px;
+}
