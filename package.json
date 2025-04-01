@@ -1,0 +1,20 @@
+{
+  "name": "al-hajayzah-clinics",
+  "version": "1.0.0",
+  "description": "\"# Al-Hajayzah-Clinics\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elmohaseb-Lsiyaha/Al-Hajayzah-Clinics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elmohaseb-Lsiyaha/Al-Hajayzah-Clinics/issues"
+  },
+  "homepage": "https://github.com/Elmohaseb-Lsiyaha/Al-Hajayzah-Clinics#readme"
+}
